@@ -4,6 +4,6 @@ defmodule Mix.Tasks.Hl.Hello do
 
   @impl Mix.Task
   def run(_) do
-    Mix.shell().info("Simple hello from hello-libary")
+    Mix.shell().info("Hello from hello-libary")
   end
 end
